@@ -31,7 +31,7 @@ button{
     border-radius: 1rem;
     position: absolute;
     top: 80%;
-    left: 43%;
+    left: 33%;
 }
 .playGround{
     position: absolute;
@@ -63,7 +63,7 @@ button{
         left: 70%;
     }*/
     #start{
-        left: 46%;
+        left: 36%;
     } 
     .gameOver{
         left: 1%;
