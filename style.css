@@ -4,6 +4,9 @@ button{
     background-color: white;
     border: none;
     padding: 0;
+    
+}
+.imfield{
     font-size: 30px
 }
 *{
@@ -71,6 +74,7 @@ button{
         left: 90%;
     }
 }
+
 
 
 
